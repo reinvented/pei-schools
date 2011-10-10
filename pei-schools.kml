@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+<Document>
+	<name>PEI-Schools-Geocoded.kml</name>
+	<Placemark>
+		<name><![CDATA[Alberton Elementary School]]></name>
+		<description><![CDATA[354 Church St, Alberton, 853-8617]]></description>
+		<Point>
+			<coordinates>-64.076419,46.810538,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Amherst Cove Consolidated School]]></name>
+		<description><![CDATA[300 Carleton St, Borden-Carleton, 437-8525]]></description>
+		<Point>
+			<coordinates>-63.685167,46.252595,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Athena Consolidated School]]></name>
+		<description><![CDATA[150 Ryan St, Summerside, 888-8486]]></description>
+		<Point>
+			<coordinates>-63.777857,46.410757,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Belfast Consolidated School]]></name>
+		<description><![CDATA[3326 Trans Canada Hwy - Rte 1, South Pinette, 659-7200]]></description>
+		<Point>
+			<coordinates>-62.904437,46.034703,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Birchwood Intermediate School]]></name>
+		<description><![CDATA[49 Longworth Av, Charlottetown, 368-6870]]></description>
+		<Point>
+			<coordinates>-63.124767,46.242799,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Bloomfield Elementary School]]></name>
+		<description><![CDATA[2472 OHalloran Rd - Rte 145, Bloomfield Corner, 859-8715]]></description>
+		<Point>
+			<coordinates>-64.19589,46.766979,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Bluefield High School]]></name>
+		<description><![CDATA[924 Colville Rd - Rte 9, Hampshire, 675-7480]]></description>
+		<Point>
+			<coordinates>-63.292749,46.282073,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cardigan Consolidated School]]></name>
+		<description><![CDATA[1614 North Royalty Rd - Rte 342, Cardigan, 583-8575]]></description>
+		<Point>
+			<coordinates>-62.614833,46.22485,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Central Queens Elementary School]]></name>
+		<description><![CDATA[19821 Rte 2, Hunter River, 964-7950]]></description>
+		<Point>
+			<coordinates>-63.35217,46.356007,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Charlottetown Rural High School]]></name>
+		<description><![CDATA[100 Raiders Rd, Charlottetown, 368-6905]]></description>
+		<Point>
+			<coordinates>-63.150722,46.257996,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Colonel Gray Senior High School]]></name>
+		<description><![CDATA[175 Spring Park Rd, Charlottetown, 368-6860]]></description>
+		<Point>
+			<coordinates>-63.140176,46.241201,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Donagh Regional School]]></name>
+		<description><![CDATA[928 Bethel Rd - Rte 215, Donagh, 569-7720]]></description>
+		<Point>
+			<coordinates>-62.940784,46.259206,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[East Wiltshire Intermediate School]]></name>
+		<description><![CDATA[100 Kingston Rd, Cornwall, 368-4130]]></description>
+		<Point>
+			<coordinates>-63.205099,46.254667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[École Évangéline]]></name>
+		<description><![CDATA[1596 Rte 124, Abram-Village, 854-2491]]></description>
+		<Point>
+			<coordinates>-64.067694,46.456318,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[École François-Buote]]></name>
+		<description><![CDATA[5 Prom Acadian Dr, Charlottetown, 566-1715]]></description>
+		<Point>
+			<coordinates>-63.094557,46.261311,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[École la Belle Cloche]]></name>
+		<description><![CDATA[41 Breakwater St, Souris, 687-7077]]></description>
+		<Point>
+			<coordinates>-62.248651,46.350196,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[École Pierre-Chiasson]]></name>
+		<description><![CDATA[119 Deblois Rd - Rte 157, DeBlois, 882-0475]]></description>
+		<Point>
+			<coordinates>-64.075471,46.919378,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[École St-Augustin]]></name>
+		<description><![CDATA[2184 Church Rd - Rte 243, Hunter River, 963-7842]]></description>
+		<Point>
+			<coordinates>-63.284073,46.423154,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[École-sur-Mer]]></name>
+		<description><![CDATA[5 Avenue Maris Stella, Summerside, 888-8300]]></description>
+		<Point>
+			<coordinates>-63.80876,46.418999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Eliot River Elementary School]]></name>
+		<description><![CDATA[79 Hilltop Dr, Cornwall, 368-4270]]></description>
+		<Point>
+			<coordinates>-63.228072,46.224919,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Ellerslie Elementary School]]></name>
+		<description><![CDATA[1226 Ellerslie Rd - Rte 133, Ellerslie-Bideford, 831-7920]]></description>
+		<Point>
+			<coordinates>-63.934673,46.606266,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Elm Street Elementary School]]></name>
+		<description><![CDATA[256 Elm St, Summerside, 888-8490]]></description>
+		<Point>
+			<coordinates>-63.795383,46.401771,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Englewood School]]></name>
+		<description><![CDATA[20280 Trans Canada Hwy - Rte 1, Victoria, 658-7850]]></description>
+		<Point>
+			<coordinates>-63.496595,46.230254,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Fair Isle Adventist School]]></name>
+		<description><![CDATA[20 Lapthorn Av, Charlottetown, 894-9301]]></description>
+		<Point>
+			<coordinates>-63.126056,46.24454,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Georgetown Elementary School]]></name>
+		<description><![CDATA[47 Kent St, Georgetown, 652-8970]]></description>
+		<Point>
+			<coordinates>-62.53357,46.183311,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Glen Stewart Elementary School]]></name>
+		<description><![CDATA[34 Glen Stewart Dr, Stratford, 569-0550]]></description>
+		<Point>
+			<coordinates>-63.098591,46.225713,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Grace Christian School]]></name>
+		<description><![CDATA[50 Kirkdale Rd, Charlottetown, 368-2218]]></description>
+		<Point>
+			<coordinates>-63.164231,46.26465,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Greenfield Elementary School]]></name>
+		<description><![CDATA[100 Darby Dr, Summerside, 888-8492]]></description>
+		<Point>
+			<coordinates>-63.813767,46.41238,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Gulf Shore Consolidated School]]></name>
+		<description><![CDATA[185 Hilltop Av, North Rustico, 963-7810]]></description>
+		<Point>
+			<coordinates>-63.327718,46.45795,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Hernewood Junior High School]]></name>
+		<description><![CDATA[34 Mill Rd - Rte 136, Woodstock, 859-8710]]></description>
+		<Point>
+			<coordinates>-64.172496,46.736481,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Immanuel Christian School]]></name>
+		<description><![CDATA[7 Trafalgar St, Charlottetown, 628-6465]]></description>
+		<Point>
+			<coordinates>-63.142335,46.243354,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Kensington Intermediate Senior High]]></name>
+		<description><![CDATA[19 Victoria St E, Kensington, 836-8901]]></description>
+		<Point>
+			<coordinates>-63.628468,46.440867,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Kinkora Regional High School]]></name>
+		<description><![CDATA[54 Anderson Rd, Kinkora, 887-2424]]></description>
+		<Point>
+			<coordinates>-63.598023,46.322537,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[L.M. Montgomery Elementary School]]></name>
+		<description><![CDATA[69 MacWilliams Rd, Charlottetown, 368-4150]]></description>
+		<Point>
+			<coordinates>-63.102154,46.285225,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[M.E. Callaghan Intermediate School]]></name>
+		<description><![CDATA[41870 Western Rd - Rte 2, St Roch, 882-7354]]></description>
+		<Point>
+			<coordinates>-64.082507,46.899583,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Miscouche Consolidated School]]></name>
+		<description><![CDATA[19 School St, Miscouche, 888-8495]]></description>
+		<Point>
+			<coordinates>-63.638961,46.438513,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Montague Consolidated School]]></name>
+		<description><![CDATA[622 Princess Dr, Montague, 838-0820]]></description>
+		<Point>
+			<coordinates>-62.657738,46.166637,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Montague Intermediate School]]></name>
+		<description><![CDATA[221 Kennedy St, Montague, 838-0860]]></description>
+		<Point>
+			<coordinates>-62.650847,46.165061,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Montague Regional High School]]></name>
+		<description><![CDATA[142 Fraser St, Montague, 838-0835]]></description>
+		<Point>
+			<coordinates>-62.650912,46.167006,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Morell Consolidated School]]></name>
+		<description><![CDATA[7755 St Peters Rd - Rte 2, Morell, 961-7340]]></description>
+		<Point>
+			<coordinates>-62.710048,46.41582,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Morell Regional High School]]></name>
+		<description><![CDATA[100 Little Flower Av - Rte 322, Morell, 961-7345]]></description>
+		<Point>
+			<coordinates>-62.707293,46.411725,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Mt. Stewart Consolidated School]]></name>
+		<description><![CDATA[120 South Main St - Rte 351, Mount Stewart, 676-7990]]></description>
+		<Point>
+			<coordinates>-62.855445,46.363719,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[O'Leary Elementary School]]></name>
+		<description><![CDATA[25 Barclay Rd, O'Leary, 859-8713]]></description>
+		<Point>
+			<coordinates>-64.231141,46.704028,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Parkdale Elementary School]]></name>
+		<description><![CDATA[49 Confederation St, Charlottetown, 368-6945]]></description>
+		<Point>
+			<coordinates>-63.123972,46.252215,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Parkside Elementary School]]></name>
+		<description><![CDATA[195 Summer St, Summerside, 888-8472]]></description>
+		<Point>
+			<coordinates>-63.789086,46.39835,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Prince Street Elementary School]]></name>
+		<description><![CDATA[60 Upper Prince St, Charlottetown, 368-6950]]></description>
+		<Point>
+			<coordinates>-63.129334,46.240716,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Queen Charlotte Intermediate School]]></name>
+		<description><![CDATA[150 North River Rd, Charlottetown, 368-6970]]></description>
+		<Point>
+			<coordinates>-63.142558,46.239377,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Queen Elizabeth Elementary School]]></name>
+		<description><![CDATA[2 Saunders Ln, Kensington, 836-8900]]></description>
+		<Point>
+			<coordinates>-63.628632,46.437989,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Sherwood Elementary School]]></name>
+		<description><![CDATA[64 Maple Av, Charlottetown, 368-6780]]></description>
+		<Point>
+			<coordinates>-63.129397,46.26432,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Somerset Elementary School]]></name>
+		<description><![CDATA[30 Somerset St, Kinkora, 887-2505]]></description>
+		<Point>
+			<coordinates>-63.604911,46.327436,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Souris Consolidated School]]></name>
+		<description><![CDATA[33 Church Av, Souris, 687-7140]]></description>
+		<Point>
+			<coordinates>-62.251545,46.356207,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Souris Regional High School]]></name>
+		<description><![CDATA[15 Longworth St, Souris, 687-7130]]></description>
+		<Point>
+			<coordinates>-62.251144,46.357826,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Southern Kings Consolidated School]]></name>
+		<description><![CDATA[2294 Peters Rd - Rte 324, Peter's Road, 962-7400]]></description>
+		<Point>
+			<coordinates>-62.600463,46.059679,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Spring Park Elementary School]]></name>
+		<description><![CDATA[30 Dunkirk St, Charlottetown, 368-6400]]></description>
+		<Point>
+			<coordinates>-63.14129,46.24445,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[St. Jean Elementary School]]></name>
+		<description><![CDATA[335 Queen St, Charlottetown, 368-6985]]></description>
+		<Point>
+			<coordinates>-63.133169,46.238271,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[St. Louis Elementary School]]></name>
+		<description><![CDATA[3807 Union Rd - Rte 152, St. Edward, 882-7358]]></description>
+		<Point>
+			<coordinates>-64.14774,46.885453,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Stonepark Intermediate School]]></name>
+		<description><![CDATA[50 Pope Av, Charlottetown, 368-6085]]></description>
+		<Point>
+			<coordinates>-63.122057,46.266622,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Stratford Elementary]]></name>
+		<description><![CDATA[50 Glen Stewart Dr, Stratford, 569-7750]]></description>
+		<Point>
+			<coordinates>-63.096159,46.22438,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Summerside Intermediate School]]></name>
+		<description><![CDATA[247 Central St, Summerside, 888-8470]]></description>
+		<Point>
+			<coordinates>-63.789851,46.400317,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Three Oaks Senior High School]]></name>
+		<description><![CDATA[10 Kenmoore Av, Summerside, 888-8460]]></description>
+		<Point>
+			<coordinates>-63.778928,46.401199,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Tignish Elementary School]]></name>
+		<description><![CDATA[322 Church St, Tignish, 882-7357]]></description>
+		<Point>
+			<coordinates>-64.03416,46.954589,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Vernon River Consolidated School]]></name>
+		<description><![CDATA[5505 Murray Harbour Rd - Rte 24, Vernon River, 651-8520]]></description>
+		<Point>
+			<coordinates>-62.832179,46.190678,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[West Kent Elementary School]]></name>
+		<description><![CDATA[27 Viceroy Av, Charlottetown, 368-6065]]></description>
+		<Point>
+			<coordinates>-63.145141,46.23455,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[West Royalty Elementary School]]></name>
+		<description><![CDATA[80 Commonwealth Av, Charlottetown, 368-6790]]></description>
+		<Point>
+			<coordinates>-63.169849,46.275144,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Westisle Composite High School]]></name>
+		<description><![CDATA[39570 Western Rd - Rte 2, Rosebank, 853-8626]]></description>
+		<Point>
+			<coordinates>-64.14809,46.806387,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
