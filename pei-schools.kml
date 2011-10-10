@@ -457,5 +457,12 @@
 			<coordinates>-64.14809,46.806387,0</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark>
+		<name><![CDATA[Westwood Primary School]]></name>
+		<description><![CDATA[80 Meadowbank Rd, Cornwall, 368-6855]]></description>
+		<Point>
+			<coordinates>-63.220019,46.2212,0</coordinates>
+		</Point>
+	</Placemark>
 </Document>
 </kml>
