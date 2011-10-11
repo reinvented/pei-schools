@@ -249,9 +249,9 @@
 	</Placemark>
 	<Placemark>
 		<name><![CDATA[Miscouche Consolidated School]]></name>
-		<description><![CDATA[19 School St, Miscouche, 888-8495]]></description>
-		<Point>
-			<coordinates>-63.638961,46.438513,0</coordinates>
+		<description><![CDATA[19 High School St, Miscouche, 888-8495]]></description>
+		<Point> 
+			<coordinates>-63.8640096,46.4319659,0</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark>
